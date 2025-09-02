@@ -1,0 +1,1 @@
+screen.fill((135, 206, 235))  # Azul céu
